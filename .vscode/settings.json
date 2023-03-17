@@ -1,0 +1,9 @@
+{
+  "eslint.rules.customizations": [
+    
+  ],
+  "eslint.notebooks.rules.customizations": [],
+  "eslint.workingDirectories": [
+  
+  ]
+}
